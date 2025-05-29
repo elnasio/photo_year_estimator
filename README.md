@@ -162,6 +162,6 @@ Kontribusi sangat diterima! Silakan buka pull request atau laporkan bug.
 
 > Mories Deo Hutapea  
 > Telegram: [t.me/learningmobileapps](https://t.me/learningmobileapps)  
-> Email: morieshutapea@gmail.com
+> Email: moriesdeo574@gmail.com
 
 ---
