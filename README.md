@@ -26,8 +26,8 @@ photo_year_estimator/
 ├── requirements.txt
 ├── services/
 │   └── image_service.py
-├── utils/
-│   └── classifier.py
+├── rules/
+│   └── year_classifier.py
 └── output/
     └── analysis_results.txt (jika disimpan)
 ```
