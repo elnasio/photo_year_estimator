@@ -39,7 +39,7 @@ def main():
 
         # Simpan ke file
         filename = os.path.splitext(os.path.basename(image_path))[0]
-        output_file = f"{filename}_analysis.txt"
+        output_file = f"/Users/morieshutapea/Desktop/{filename}_analysis.txt"
 
         with open(output_file, "w") as f:
             f.write("📊 ANALYSIS SUMMARY\n")
