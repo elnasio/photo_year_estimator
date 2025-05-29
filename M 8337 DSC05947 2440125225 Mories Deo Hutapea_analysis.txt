@@ -1,0 +1,29 @@
+📊 ANALYSIS SUMMARY
+=====================
+
+📷 Metadata:
+  Make: SONY
+  Model: ILCE-6400
+  Software: ILCE-6400 v2.00
+  DateTime: 2023:11:18 17:14:59
+
+📈 Visual Features:
+  DPI: (350.0, 350.0)
+  Brightness: 86.77 (>=150 = terang modern)
+  Entropy: 7.38 (<=5 = scan/lama)
+  Sharpness: 31.28 (<=30 = soft/scan)
+  Noise: 1.61 (>=10 = film grain)
+  Color Cast: red cast
+  Dominant Colors: #422122, #C48D7F, #883F31
+
+📊 Histogram Stats (RGB skew & kurtosis):
+  red_skew: -0.12
+  red_kurtosis: -0.81
+  green_skew: 0.98
+  green_kurtosis: 0.08
+  blue_skew: 1.09
+  blue_kurtosis: 0.34
+
+🕵️ PREDICTION
+=====================
+From metadata: 2023
